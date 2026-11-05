@@ -1,0 +1,8 @@
+{
+  "name": "tensie-gt-fullstack",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tensie GT concept website with a lightweight Node.js backend and persistent JSON storage",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=18"}
+}
